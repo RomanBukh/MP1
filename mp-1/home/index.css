@@ -48,6 +48,8 @@ nav a{
     text-decoration: none;
     color: white;
     background-color: #ff0000;
+    display: block;
+    block-size: 10%;
 }
 
 footer{
