@@ -19,18 +19,18 @@ header h1{
     text-align: center;
 }
 
-img {
-    max-width: 40%;
-    height: auto;
-    align-items: center;
-}
-
 nav{
     background-color: gold;
     text-align: left;
     width: 30%;
     height: 100%;
     left: 10;
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+    align-items: center;
 }
 
 nav ul{
