@@ -27,12 +27,12 @@ img {
 
 nav{
     background-color: goldenrod;
-    padding: 2px;
+    width: 30%;
+    height: 100%;
 }
 
 nav ul{
     list-style-type: none;
-    padding: 10%;
 }
 
 footer{
