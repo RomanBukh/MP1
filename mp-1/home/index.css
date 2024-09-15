@@ -1,4 +1,31 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#page-wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 80 vw;
+    height: 80 vh;
+
+}
+
 header h1{
     font-style: italic;
-    text-shadow: 2px 2px blue;
+    text-shadow: 2px 2px #ff0000;
+    background-color: gray;
+    text-align: center;
+}
+
+nav{
+    background-color: gold;
+}
+
+@media screen and (max-width: 1000px){
+    
+}
+
+@media screen and (max-width: 750px){
+
 }
