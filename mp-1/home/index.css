@@ -27,7 +27,8 @@ nav{
     background-color: gold;
     text-align: left;
     width: 300px;
-    height: 50vh;
+    height: 75vh;
+    left: 10;
 }
 
 nav ul{
