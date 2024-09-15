@@ -6,7 +6,7 @@
 #page-wrapper{
     display: flex;
     width: 80 vw;
-    height: 80 vh;
+    height: 120 vh;
     padding: 2%;
     background-color: lightblue;
 }
