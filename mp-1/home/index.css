@@ -7,7 +7,7 @@
     display: flex;
     width: 80 vw;
     height: 80 vh;
-    padding: 20px;
+    padding: 10%;
     background-color: lightblue;
 }
 
@@ -21,25 +21,26 @@ header h1{
 img {
     max-width: 20%;
     height: auto;
+    align-items: center;
 }
 
 nav{
     background-color: gold;
     text-align: left;
     position: fixed;
-    width: 300px;
-    height: 75vh;
+    width: 30%;
+    height: 100%;
     left: 10;
 }
 
 nav ul{
     list-style-type: none;
-    padding: 10px;
+    padding: 40%;
 }
 
 footer{
     text-align: center;
-    padding: 10px;
+    padding: 10%;
 }
 
 @media screen and (max-width: 750px){
