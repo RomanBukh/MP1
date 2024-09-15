@@ -37,6 +37,12 @@ nav ul{
     justify-content: center;
 }
 
+nav li{
+    margin: 10%;
+    text-decoration: none;
+    padding: 5%;
+}
+
 footer{
     text-align: center;
 }
