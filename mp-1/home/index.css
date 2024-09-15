@@ -33,7 +33,7 @@ nav ul{
     list-style-type: none;
     display: flex;
     flex-direction: row;
-    padding: 5%;
+    padding: 1%;
 }
 
 footer{
