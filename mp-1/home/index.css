@@ -8,6 +8,8 @@
     flex-direction: row;
     width: 80 vw;
     height: 80 vh;
+    padding: 20px;
+    
 }
 
 header h1{
@@ -25,10 +27,6 @@ img {
 nav{
     display: block;
     background-color: gold;
-}
-
-@media screen and (max-width: 1000px){
-    
 }
 
 @media screen and (max-width: 750px){
