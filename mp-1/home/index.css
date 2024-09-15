@@ -15,7 +15,7 @@
 header h1{
     font-style: italic;
     text-shadow: 2px 2px #ff0000;
-    background-color: gray;
+    background-color: gold;
     text-align: center;
 }
 
@@ -27,10 +27,8 @@ img {
 
 nav{
     background-color: gold;
-    text-align: left;
     width: 30%;
     height: 100%;
-    margin: 2%;
 }
 
 nav ul{
