@@ -38,13 +38,13 @@ nav ul{
 
 nav li{
     margin: 2%;
-    color: white;
-    display: block;
-    border-block-color: lightblue;
 }
 
 nav a{
     text-decoration: none;
+    color: white;
+    display: block;
+    border-block-color: lightblue;
 }
 
 footer{
