@@ -27,10 +27,18 @@ img {
 nav{
     background-color: gold;
     text-align: left;
+    width: 200px;
+    height: 100vh;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 10px;
 }
 
 footer{
     text-align: center;
+    padding: 10px;
 }
 
 @media screen and (max-width: 750px){
