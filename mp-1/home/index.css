@@ -18,6 +18,10 @@ header h1{
     text-align: center;
 }
 
+img {
+    border-radius: 8px;
+}
+
 nav{
     background-color: gold;
 }
