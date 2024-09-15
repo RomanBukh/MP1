@@ -27,10 +27,11 @@ img {
 
 nav{
     background-color: gold;
-    text-align: left;
+    text-align: center;
     width: 30%;
     height: 100%;
     left: 10;
+    margin: 50%;
 }
 
 nav ul{
@@ -40,7 +41,6 @@ nav ul{
 
 footer{
     text-align: center;
-    padding: 1%;
 }
 
 @media screen and (max-width: 750px){
