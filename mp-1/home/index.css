@@ -9,7 +9,7 @@
     width: 80 vw;
     height: 80 vh;
     padding: 20px;
-    background-color: blue;
+    background-color: lightblue;
 }
 
 header h1{
@@ -25,7 +25,6 @@ img {
 }
 
 nav{
-    display: block;
     background-color: gold;
     text-align: left;
 }
