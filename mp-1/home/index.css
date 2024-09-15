@@ -34,7 +34,7 @@ nav ul{
     display: flex;
     flex-direction: row;
     padding: 1%;
-    align-items: center;
+    justify-content: center;
 }
 
 footer{
