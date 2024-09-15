@@ -38,6 +38,9 @@ nav ul{
 
 nav li{
     margin: 2%;
+    color: white;
+    display: block;
+    border-block-color: lightblue;
 }
 
 nav a{
