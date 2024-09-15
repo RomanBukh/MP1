@@ -31,10 +31,9 @@ nav{
 
 nav ul{
     list-style-type: none;
-    margin: 5%;
-    padding: 2px;
     display: flex;
     flex-direction: row;
+    
 }
 
 footer{
