@@ -5,6 +5,7 @@
 
 #page-wrapper{
     display: flex;
+    flex-direction: row;
     width: 80 vw;
     height: 120 vh;
     padding: 2%;
