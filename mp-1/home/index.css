@@ -40,7 +40,7 @@ nav ul{
 
 footer{
     text-align: center;
-    padding: 5%;
+    background-color: lightblue;
 }
 
 @media screen and (max-width: 750px){
