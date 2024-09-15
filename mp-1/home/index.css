@@ -21,6 +21,7 @@ header h1{
 
 main h2{
     background-color: white;
+    margin: 2%;
 }
 
 img {
@@ -49,7 +50,7 @@ nav a{
     color: white;
     background-color: #ff0000;
     display: block;
-    block-size: 10%;
+    margin: 10%;
 }
 
 footer{
