@@ -19,7 +19,8 @@ header h1{
 }
 
 img {
-    border-radius: 8px;
+    max-width: 20%;
+    height: auto;
 }
 
 nav{
