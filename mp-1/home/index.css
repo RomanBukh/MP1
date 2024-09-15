@@ -9,7 +9,7 @@
     width: 80 vw;
     height: 80 vh;
     padding: 20px;
-    
+    background-color: blue;
 }
 
 header h1{
@@ -27,6 +27,11 @@ img {
 nav{
     display: block;
     background-color: gold;
+    text-align: left;
+}
+
+footer{
+    text-align: center;
 }
 
 @media screen and (max-width: 750px){
