@@ -55,15 +55,12 @@ nav ul{
     justify-content: center;
 }
 
-nav li{
-    margin: 5% 2% 5%;
-}
-
 nav a{
     text-decoration: none;
     color: white;
     background-color: #ff0000;
     padding: 10% 30% 10%;
+    margin: 0% 2% 5%;
     border: 2px;
     border-color: lightblue;
     border-style: solid;
