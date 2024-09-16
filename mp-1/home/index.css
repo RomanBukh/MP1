@@ -24,13 +24,19 @@ main h2{
     margin-top: 1%;
     margin-bottom: 1%;
     padding: 1%;
+    text-shadow: 2px 2px #ff0000;
+    background-color: gold;
 }
 
-img {
+img{
     max-width: 35%;
     height: auto;
     align-items: center;
     margin-bottom: 1%;
+}
+
+main{
+    margin-bottom: 2%;
 }
 
 nav{
