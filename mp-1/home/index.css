@@ -97,4 +97,34 @@ footer{
         height: 100%;
         padding: 1%;
     }
+
+    main{
+        margin-bottom: 2%;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    nav{
+        background-color: gold;
+        height: auto;
+        margin: 0% 2% 0%;
+        padding: 0% 5% 0%;
+        border-style: double;
+        border-color: #ff0000;
+    }
+    
+    nav ul{
+        position: relative; 
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+        background-color: gold;
+        align-items: center;
+        left: -30%;
+    }
+    
+    nav li{
+        margin: 40% 0% 40%;
+    }
+    
 }
