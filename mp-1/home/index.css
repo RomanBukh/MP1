@@ -61,6 +61,7 @@ nav ul{
 nav li{
     margin: 20% 0% 20%;
     position: relative;
+    float: left;
 }
 
 nav a{
