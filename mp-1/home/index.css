@@ -18,7 +18,7 @@ header h1{
     background-color: gold;
     text-align: center;
     margin-top: 2%;
-    padding: 2%;
+    padding: 1%;
 }
 
 header h2{
@@ -35,7 +35,7 @@ img{
     max-width: 35%;
     height: auto;
     align-items: center;
-    margin-bottom: 1%;
+    margin: 1%;
 }
 
 main{
