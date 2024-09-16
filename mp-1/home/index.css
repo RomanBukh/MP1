@@ -39,6 +39,7 @@ img{
 
 main{
     margin-bottom: 2%;
+    flex-direction: row;
 }
 
 nav{
