@@ -57,6 +57,7 @@ nav ul{
     display: flex;
     flex-direction: column;
     background-color: gold;
+    justify-content: center;
     left: -20%;
 }
 
