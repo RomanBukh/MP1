@@ -31,13 +31,6 @@ header h2{
     text-align: center;
 }
 
-img{
-    max-width: 35%;
-    height: auto;
-    align-items: center;
-    margin: 1%;
-}
-
 main{
     margin-bottom: 2%;
     display: flex;
