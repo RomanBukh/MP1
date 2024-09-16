@@ -53,7 +53,7 @@ nav ul{
     list-style-type: none;
     display: flex;
     flex-direction: column;
-    background-color: goldenrod;
+    background-color: gold;
 }
 
 nav li{
@@ -68,7 +68,6 @@ nav a{
     border: 2px;
     border-color: lightblue;
     border-style: solid;
-    text-align: center;
 }
 
 a:hover{
