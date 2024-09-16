@@ -46,12 +46,14 @@ main{
 
 nav{
     background-color: goldenrod;
+    height: auto;
 }
 
 nav ul{
     list-style-type: none;
     display: flex;
     flex-direction: column;
+    background-color: goldenrod;
 }
 
 nav li{
