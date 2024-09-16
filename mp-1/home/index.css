@@ -54,11 +54,11 @@ nav ul{
     display: flex;
     flex-direction: column;
     background-color: gold;
-    text-align: left;
 }
 
 nav li{
     margin: 20% 0% 20%;
+    position: relative;
 }
 
 nav a{
