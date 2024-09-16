@@ -52,11 +52,12 @@ nav{
 }
 
 nav ul{
+    position: relative; 
     list-style-type: none;
     display: flex;
     flex-direction: column;
     background-color: gold;
-    left: -50px;
+    left: -5%;
 }
 
 nav li{
