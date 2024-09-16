@@ -61,7 +61,9 @@ nav a{
     background-color: #ff0000;
     display: block;
     padding: 10% 30% 10%;
+    border: 2px;
     border-color: lightblue;
+    border-style: solid;
     text-align: left;
 }
 
