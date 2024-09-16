@@ -1,6 +1,7 @@
 *{
     margin: 0;
     box-sizing: border-box;
+    background-color: lightblue;
 }
 
 #page-wrapper{
@@ -48,7 +49,7 @@ nav{
 nav ul{
     list-style-type: none;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
 }
 
