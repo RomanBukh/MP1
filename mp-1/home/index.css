@@ -64,7 +64,10 @@ nav a{
     border: 2px;
     border-color: lightblue;
     border-style: solid;
-    text-align: left;
+}
+
+a:hover{
+    background-color: lightblue;
 }
 
 footer{
