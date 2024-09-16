@@ -19,6 +19,8 @@ header h1{
     text-align: center;
     margin-top: 2%;
     padding: 1%;
+    border-style: double;
+    border-color: #ff0000;
 }
 
 header h2{
@@ -29,6 +31,8 @@ header h2{
     text-shadow: 2px 2px #ff0000;
     background-color: gold;
     text-align: center;
+    border-style: double;
+    border-color: #ff0000;
 }
 
 img{
