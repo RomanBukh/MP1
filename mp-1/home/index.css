@@ -39,6 +39,7 @@ img{
 
 main{
     margin-bottom: 2%;
+    display: flex;
     flex-direction: row;
 }
 
