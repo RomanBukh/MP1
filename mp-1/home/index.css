@@ -119,6 +119,8 @@ footer{
         background-color: gold;
         align-items: center;
         margin: 0% 30% 0%;
+        position: relative; 
+        left: -30%
     }
     
     nav li{
