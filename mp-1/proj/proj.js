@@ -4,6 +4,9 @@ function addition(){
 
     let second=document.getElementById("second").value;
     second=Number(second);
+
+    let output = first + second;
+    document.getElementById("output").innerHTML = `<p>${output}</p>`;
 }
 
 function subtraction(){
@@ -12,6 +15,9 @@ function subtraction(){
 
     let second=document.getElementById("second").value;
     second=Number(second);
+
+    let output = first - second;
+    document.getElementById("output").innerHTML = `<p>${output}</p>`;
 }
 
 function multiplication(){
@@ -20,6 +26,9 @@ function multiplication(){
 
     let second=document.getElementById("second").value;
     second=Number(second);
+
+    let output = first*second;
+    document.getElementById("output").innerHTML = `<p>${output}</p>`;
 }
 
 function division(){
@@ -28,6 +37,9 @@ function division(){
 
     let second=document.getElementById("second").value;
     second=Number(second);
+
+    let output = first/second;
+    document.getElementById("output").innerHTML = `<p>${output}</p>`;
 }
 
 function power(){
@@ -37,13 +49,13 @@ function power(){
     let second=document.getElementById("second").value;
     second=Number(second);
 
-    let j = 1;
+    let output = 1;
 
     for(let i = 0; i < second; i++){
-        j = first * j;
+        output = first * output;
     }
     
-    document.getElementById("output").innerHTML = `<p>${j}</p>`;
+    document.getElementById("output").innerHTML = `<p>${output}</p>`;
 
 }
 
