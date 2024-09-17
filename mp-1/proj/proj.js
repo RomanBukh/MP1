@@ -11,6 +11,6 @@ function power(){
         j = first * j;
     }
     
-    document.getElementById("output").innerHTML = '<h3>${j}</h3>'
+    document.getElementById("output").innerHTML = `<p>${j}</p>`;
 
 }
