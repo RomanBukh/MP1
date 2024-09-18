@@ -41,6 +41,11 @@ main{
     flex-direction: row;
 }
 
+.ref-grid{
+    display: grid;
+    gap: 10%; 
+}
+
 nav{
     background-color: gold;
     height: auto;
