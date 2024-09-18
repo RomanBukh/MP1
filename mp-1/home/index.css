@@ -36,8 +36,8 @@ header p{
 }
 
 img{
-    max-width: 35%;
-    height: 50%;
+    max-width: 40%;
+    height: auto;
     align-items: center;
     margin: 1%;
 }
