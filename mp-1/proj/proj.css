@@ -38,6 +38,11 @@ header p{
 main{
     margin-bottom: 2%;
     display: flex;
+    flex-direction: column;
+}
+
+main button{
+    display: flex;
     flex-direction: row;
 }
 
