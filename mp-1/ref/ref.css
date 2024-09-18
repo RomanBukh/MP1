@@ -41,12 +41,6 @@ main{
     flex-direction: column;
 }
 
-.ref-grid{
-    display: grid;
-    gap: 2%;
-    grid-template-columns: 10%;
-}
-
 .ref-card{
     display: grid;
     padding: 10%;
