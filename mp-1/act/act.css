@@ -45,6 +45,15 @@ main h4{
     margin: 2% 0%;
 }
 
+#img-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+#img-wrapper img{
+    margin: 2%;
+}
+
 nav{
     background-color: gold;
     height: auto;
