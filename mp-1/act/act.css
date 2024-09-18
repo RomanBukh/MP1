@@ -38,7 +38,7 @@ header h2{
 main{
     margin-bottom: 2%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 nav{
@@ -95,7 +95,7 @@ footer{
         margin-top: 2%;
         margin-bottom: 2%;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
     }
     
     nav{
