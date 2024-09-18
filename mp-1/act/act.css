@@ -144,4 +144,9 @@ footer{
         border-color: lightblue;
         border-style: solid;
     }
+
+    #img-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
 }
