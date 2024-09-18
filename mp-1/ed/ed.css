@@ -85,7 +85,6 @@ a:hover{
 #img-wrapper{
     display: flex;
     flex-direction: row;
-    left: -2%
 }
 
 #img-wrapper img{
@@ -143,5 +142,10 @@ footer{
         border: 2px;
         border-color: lightblue;
         border-style: solid;
+    }
+
+    #img-wrapper{
+        display: flex;
+        flex-direction: column;
     }
 }
