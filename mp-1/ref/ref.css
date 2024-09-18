@@ -44,7 +44,7 @@ main{
 .ref-grid{
     display: grid;
     gap: 2%;
-    grid-template-rows: 10px;
+    grid-template-rows: 10% 40% 10%;
 }
 
 .ref-card{
