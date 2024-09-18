@@ -47,6 +47,12 @@ main{
     grid-template-rows: auto auto auto;
 }
 
+.ref-card{
+    padding: 10%;
+    border-style: solid;
+    border-color: lightblue;
+}
+
 nav{
     background-color: gold;
     height: auto;
