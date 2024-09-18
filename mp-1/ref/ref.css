@@ -47,6 +47,7 @@ main{
     border-style: solid;
     border-color: red;
     grid-template-rows: 10%;
+    margin: 2%;
 }
 
 .name{
