@@ -44,14 +44,13 @@ main{
 .ref-grid{
     display: grid;
     gap: 2%;
-    grid-template-rows: 10%;
+    grid-template-columns: 10%;
 }
 
 .ref-card{
     padding: 10%;
     border-style: solid;
     border-color: red;
-    grid-template-columns: 10%;
 }
 
 .name{
