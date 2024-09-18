@@ -82,6 +82,11 @@ a:hover{
     background-color: lightblue;
 }
 
+#img-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
 footer{
     text-align: center;
 }
