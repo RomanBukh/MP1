@@ -43,7 +43,8 @@ main{
 
 .ref-grid{
     display: grid;
-    gap: 10%; 
+    gap: 2%;
+    grid-template-columns: auto auto auto;
 }
 
 nav{
