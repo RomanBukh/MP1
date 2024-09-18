@@ -43,22 +43,22 @@ main{
 
 .ref-card{
     display: grid;
-    padding: 5%;
+    padding: 2%;
     border-style: solid;
     border-color: red;
     grid-template-rows: 10%;
 }
 
 .name{
-    padding: 1%;
+    padding: 2%;
 }
 
 .title{
-    padding: 1%;
+    padding: 2%;
 }
 
 .email{
-    padding: 1%;
+    padding: 2%;
 }
 
 nav{
