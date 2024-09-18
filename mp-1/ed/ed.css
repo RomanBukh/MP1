@@ -85,6 +85,7 @@ a:hover{
 #img-wrapper{
     display: flex;
     flex-direction: row;
+    left: -2%
 }
 
 #img-wrapper img{
