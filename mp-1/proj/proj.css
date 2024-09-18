@@ -48,6 +48,10 @@ main{
     margin: 2%;
 }
 
+main button{
+    margin: 2%;
+}
+
 nav{
     background-color: gold;
     height: auto;
