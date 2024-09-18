@@ -40,7 +40,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    right: 20%;
+    right: 50%;
 }
 
 #buttons{
