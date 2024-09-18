@@ -85,6 +85,9 @@ a:hover{
 #img-wrapper{
     display: flex;
     flex-direction: row;
+}
+
+#img-wrapper img{
     margin: 2%;
 }
 
