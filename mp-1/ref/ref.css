@@ -51,7 +51,6 @@ main{
     padding: 10%;
     border-style: solid;
     border-color: red;
-    grid-template-rows: auto auto auto;
 }
 
 nav{
