@@ -40,7 +40,11 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 2% auto;
+    margin: 0% auto;
+}
+
+main h3{
+    margin-bottom: 2%;
 }
 
 #buttons{
