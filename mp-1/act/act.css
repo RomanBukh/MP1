@@ -41,6 +41,10 @@ main{
     flex-direction: column;
 }
 
+main h4{
+    margin-bottom: 2%;
+}
+
 nav{
     background-color: gold;
     height: auto;
