@@ -60,7 +60,7 @@ function power(){
 }
 
 function clear(){
-    document.getElementById("first").innerHTML = `<p></p>`;
-    document.getElementById("second").innerHTML = `<p></p>`;
-    document.getElementById("output").innerHTML = `<p></p>`;
+    document.getElementById("first").innerHTML = "";
+    document.getElementById("second").innerHTML = "";
+    document.getElementById("output").innerHTML = "";
 }
