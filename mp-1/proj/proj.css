@@ -50,10 +50,11 @@ main h3{
 #buttons{
     display: flex;
     flex-direction: row;
+    margin: 2%;
 }
 
 main button{
-    margin: 5%;
+    margin: 5% auto;
     padding: 20%;
     color: white;
     border-radius: 50%;
