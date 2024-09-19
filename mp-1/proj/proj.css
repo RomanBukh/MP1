@@ -50,6 +50,7 @@ main h3{
     border-style: double;
     border-color: #ff0000;
     padding: 2%;
+    color: white;
 }
 
 #first{
