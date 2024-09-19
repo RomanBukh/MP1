@@ -1,3 +1,4 @@
+//Adds two numbers
 function addition(){
     let first=document.getElementById("first").value;
     first=Number(first);
@@ -9,6 +10,7 @@ function addition(){
     document.getElementById("output").innerHTML = `<p>${output}</p>`;
 }
 
+//Subtracts two numbers
 function subtraction(){
     let first=document.getElementById("first").value;
     first=Number(first);
@@ -20,6 +22,7 @@ function subtraction(){
     document.getElementById("output").innerHTML = `<p>${output}</p>`;
 }
 
+//Multiplies two numbers
 function multiplication(){
     let first=document.getElementById("first").value;
     first=Number(first);
@@ -31,6 +34,7 @@ function multiplication(){
     document.getElementById("output").innerHTML = `<p>${output}</p>`;
 }
 
+//Divides two numbers
 function division(){
     let first=document.getElementById("first").value;
     first=Number(first);
@@ -42,6 +46,7 @@ function division(){
     document.getElementById("output").innerHTML = `<p>${output}</p>`;
 }
 
+//Brings the first number to the power of the second number
 function power(){
     let first=document.getElementById("first").value;
     first=Number(first);
@@ -56,9 +61,9 @@ function power(){
     }
     
     document.getElementById("output").innerHTML = `<p>${output}</p>`;
-
 }
 
+//Erases what's in the inputs and output
 function clearEverything(){
     document.getElementById("first").value = "";
     document.getElementById("second").value = "";
