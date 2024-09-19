@@ -52,6 +52,10 @@ main h3{
     padding: 2%;
 }
 
+#inputs{
+    margin: 5%;
+}
+
 #first{
     border-style: solid;
     border-color: #ff0000;
