@@ -53,11 +53,13 @@ main h3{
 }
 
 #first{
-
+    border-style: solid;
+    border-color: #ff0000;
 }
 
 #second{
-
+    border-style: solid;
+    border-color: #ff0000;
 }
 
 #buttons{
@@ -78,7 +80,7 @@ main button{
 }
 
 #output{
-    padding: 10%;
+    padding: 10% 2%;
     border-style: solid;
     border-color: #ff0000;
 }
