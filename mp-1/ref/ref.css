@@ -41,7 +41,7 @@ main{
     flex-direction: column;
 }
 
-.ref-card{
+.grid{
     display: grid;
     padding: 2%;
     border-style: solid;
