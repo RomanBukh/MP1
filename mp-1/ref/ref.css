@@ -51,6 +51,12 @@ main{
     margin: 2%;
 }
 
+.item{
+    padding: 2%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
 .name{
     padding: 2%;
 }
