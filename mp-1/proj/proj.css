@@ -55,11 +55,13 @@ main h3{
 #first{
     border-style: solid;
     border-color: #ff0000;
+    background-color: gold;
 }
 
 #second{
     border-style: solid;
     border-color: #ff0000;
+    background-color: gold;
 }
 
 #buttons{
@@ -80,9 +82,10 @@ main button{
 }
 
 #output{
-    padding: 1% 15%;
+    padding: 2% 20%;
     border-style: solid;
     border-color: #ff0000;
+    background-color: gold;
 }
 
 nav{
