@@ -52,8 +52,6 @@ main{
 
 .item{
     padding: 2%;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
     border-style: solid;
     border-color: red;
 }
