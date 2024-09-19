@@ -51,7 +51,6 @@ main h3{
     display: flex;
     flex-direction: row;
     margin: 2%;
-    left: 20%;
 }
 
 main button{
@@ -60,6 +59,7 @@ main button{
     text-size-adjust: 50%;
     border-radius: 50%;
     background-color: #ff0000;
+    align-items: center;
 }
 
 nav{
