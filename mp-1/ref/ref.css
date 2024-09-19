@@ -40,6 +40,8 @@ header p{
     padding: 2%;
     grid-template-columns: repeat(3, 1fr);
     margin: 2%;
+    border-style: solid;
+    border-color: red;
 }
 
 .item{
