@@ -52,7 +52,6 @@ main h3{
     flex-direction: row;
     margin: 2%;
     padding: 5%;
-    width:100%;
     justify-content: center;
 }
 
