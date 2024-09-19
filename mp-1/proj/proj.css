@@ -35,6 +35,10 @@ header p{
     border-color: #ff0000;
 }
 
+div label{
+    color: red;
+}
+
 main{
     margin-bottom: 2%;
     display: flex;
