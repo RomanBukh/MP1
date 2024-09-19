@@ -43,7 +43,6 @@ main{
 
 .ref-card{
     display: grid;
-    gap: 2%;
     padding: 2%;
     border-style: solid;
     border-color: red;
@@ -55,6 +54,8 @@ main{
     padding: 2%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    border-style: solid;
+    border-color: red;
 }
 
 .name{
