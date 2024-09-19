@@ -54,12 +54,11 @@ main h3{
 }
 
 main button{
-    margin: 2%;
-    padding: 20%;
-    text-size-adjust: 50%;
+    margin: 5%;
+    padding: 35%;
+    text-size-adjust: 80%;
     border-radius: 50%;
     background-color: #ff0000;
-    align-items: center;
 }
 
 nav{
