@@ -52,6 +52,14 @@ main h3{
     padding: 2%;
 }
 
+#first{
+
+}
+
+#second{
+
+}
+
 #buttons{
     display: flex;
     flex-direction: row;
@@ -66,7 +74,14 @@ main button{
     color: white;
     border-radius: 50%;
     background-color: #ff0000;
-    font-size: 250%;
+    font-size: 200%;
+}
+
+#output{
+    
+    
+    border-style: solid;
+    border-color: #ff0000;
 }
 
 nav{
