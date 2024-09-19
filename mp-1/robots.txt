@@ -1,4 +1,9 @@
 User-agent: Googlebot
 Disallow: /achievements/
 Disallow: /references/
-Sitemap: 
+Sitemap: file:///C:/Users/bukho/OneDrive/Desktop/CS391Fall/Mini%20Projects/mp-1/home/index.html
+Sitemap: file:///C:/Users/bukho/OneDrive/Desktop/CS391Fall/Mini%20Projects/mp-1/ed/ed.html
+Sitemap: file:///C:/Users/bukho/OneDrive/Desktop/CS391Fall/Mini%20Projects/mp-1/work/work.html
+Sitemap: file:///C:/Users/bukho/OneDrive/Desktop/CS391Fall/Mini%20Projects/mp-1/proj/proj.html
+Sitemap: file:///C:/Users/bukho/OneDrive/Desktop/CS391Fall/Mini%20Projects/mp-1/act/act.html
+Sitemap: file:///C:/Users/bukho/OneDrive/Desktop/CS391Fall/Mini%20Projects/mp-1/ref/ref.html
