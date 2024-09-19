@@ -51,11 +51,14 @@ main h3{
     display: flex;
     flex-direction: row;
     margin: 2%;
-    border-radius: 50%;
 }
 
 main button{
     margin: 2%;
+    padding: 5%;
+    text-size-adjust: 10%;
+    border-radius: 50%;
+    background-color: #ff0000;
 }
 
 nav{
