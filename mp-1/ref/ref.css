@@ -37,7 +37,6 @@ header p{
 
 .grid{
     display: grid;
-    padding: 2%;
     grid-template-columns: repeat(3, 1fr);
     margin: 2%;
     border-style: solid;
