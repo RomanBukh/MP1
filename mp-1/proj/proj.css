@@ -49,6 +49,7 @@ main h3{
     text-shadow: 2px 2px #ff0000;
     border-style: double;
     border-color: #ff0000;
+    padding: 5%;
 }
 
 #buttons{
