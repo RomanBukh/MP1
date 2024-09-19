@@ -49,7 +49,7 @@ main{
 }
 
 main h3{
-    margin: 0% 5%;
+    margin: 5% 0%;
     background-color: gold;
     text-shadow: 2px 2px #ff0000;
     border-style: double;
