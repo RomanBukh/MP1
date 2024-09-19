@@ -78,8 +78,7 @@ main button{
 }
 
 #output{
-    
-    
+    padding: 10%;
     border-style: solid;
     border-color: #ff0000;
 }
